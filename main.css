@@ -1,0 +1,62 @@
+body {
+    background-color: #f6f9fc;
+    font-size: 14px;
+    color: #7184ad;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.welcome_message span {
+    color: #613de6;
+    font-weight: bold;
+}
+
+.my_funds {
+    color: #613de6;
+}
+
+/* Couleur de fond pour les icons et les boutons */
+.my_account, .submit, .copy, .account {
+    background-color: #613de6;
+}
+
+/* Couleur des titres */
+.h5, .name, .welcome_message h4, .info_update, .stats_amount, .title_color {
+    color: #1f2c73;
+}
+
+.list-unstyled a {
+    color: #7184ad;
+}
+
+
+.list-unstyled .active {
+    border-bottom: #1f2c73;
+    color: #1f2c73;
+    padding-bottom: 3px;
+}
+
+/* Nos Icones */
+i, .link_breadcrumb {
+    color: #613de6;
+}
+
+.account {
+    font-size: 20px;
+    padding: 2px 5px;
+}
+
+/* Notre QR Code */
+
+.qr_code_button {
+    font-size: 16px;
+}
+
+.qr_code {
+    font-size: 250px;
+    margin-left: 10px;
+}
+
+/* Supprimer les caret devant les toggles */
+
+.dropdown-toggle:after { content: none }

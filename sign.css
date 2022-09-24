@@ -1,0 +1,39 @@
+body {
+    background-color: #f6f9fc;
+    font-size: 14px;
+    color: #7184ad;
+    font-family: "Roboto", sans-serif;
+}
+
+h4 {
+    color: #1f2c73;
+}
+
+.bloc {
+    width: 400px;
+    min-width: 300px;
+    margin: auto;
+}
+
+.btn {
+    background-color: #613de6;
+    color: white;
+    font-weight: bold;
+}
+
+.login_link {
+    text-decoration: none;
+    color: #1f2c73;
+}
+
+.login_link a {
+    font-size: 17px;
+    color: #613de6;
+    text-decoration: none;
+}
+
+.btn:hover {
+    border: 1px solid #613de6;
+    color: #613de6;
+    font-weight: normal;
+}
